@@ -2,5 +2,5 @@
 Project for History class
 
 
-- Sources
+Sources:
 - https://www.usni.org/magazines/naval-history-magazine/2014/july/historic-aircraft-first-big-bomber
