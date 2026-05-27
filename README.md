@@ -1,6 +1,10 @@
 # HistoryProject-BomberSimulator
 Project for History class
 
+How to play:
+Click on the green button that says - <>Code
+Click Download ZIP in the dropdown.
+
 
 Sources:
 - https://www.usni.org/magazines/naval-history-magazine/2014/july/historic-aircraft-first-big-bomber (Martin mb-1)
