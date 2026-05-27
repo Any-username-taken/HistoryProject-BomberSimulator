@@ -4,8 +4,17 @@ Project for History class
 How to play:
 Click on the green button that says <>Code
 
-Click Download ZIP in the dropdown.
+Click Download ZIP in the dropdown
 
+Once downloaded, unzip the file from file manager by right-clicking it and selecting Extract All, delete the part that has the same name as the file, or choose a different file, and then Save
+
+Afterwards, open the unzipped file and do the same for the rest of the files inside (I'm sorry about that, it was the only way I could upload the files)
+
+If you don't see the Extract All button, try left-clicking the folder once, then right clicking it
+
+After you Unzip all the files, run the one that says History Project.exe
+
+There are instructions on the controls inside of the info tab once the project loads (bottom right button)
 
 Sources:
 - https://www.usni.org/magazines/naval-history-magazine/2014/july/historic-aircraft-first-big-bomber (Martin mb-1)
