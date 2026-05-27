@@ -2,7 +2,8 @@
 Project for History class
 
 How to play:
-Click on the green button that says - <>Code
+Click on the green button that says <>Code
+
 Click Download ZIP in the dropdown.
 
 
